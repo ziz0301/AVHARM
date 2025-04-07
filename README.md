@@ -1,8 +1,6 @@
-# AVHARM: Autonomous Vehicle Hierarchical Attack Representation Model
-**AVHARM** is a graphical modelling tool developed as part of the research presented in our paper "Graphical security modelling for Autonomous Vehicles: A novel approach to threat analysis and defence evaluation"(https://doi.org/10.1016/j.cose.2024.104229) published in Computers & Security.
-It enables in-depth threat analysis and defence evaluation of Autonomous Vehicle (AV) systems by combining attack graphs, attack trees, and countermeasure trees with formal security metrics.
+**AVHARM** is a graphical modelling tool developed as part of the research presented in our paper "Graphical security modelling for Autonomous Vehicles: A novel approach to threat analysis and defence evaluation", published in Computers & Security. It enables in-depth threat analysis and defence evaluation of Autonomous Vehicle (AV) systems by combining attack graphs, attack trees, and countermeasure trees with formal security metrics.
 
-## Overview
+# AVHARM: Autonomous Vehicle Hierarchical Attack Representation Model
 AVHARM is built to support AV security researchers and developers by offering:
     Web-based visualisation of AV network attack paths.
     Automatic calculation of multi-level security metrics.
