@@ -1,6 +1,9 @@
 # AVHARM
 AVHARM is a graphical modelling tool developed as part of the research presented in our paper "Graphical security modelling for Autonomous Vehicles: A novel approach to threat analysis and defence evaluation", published in Computers & Security. It enables in-depth threat analysis and defence evaluation of Autonomous Vehicle (AV) systems by combining attack graphs, attack trees, and countermeasure trees with formal security metrics.
 
+
+
+
 ## Overview
 AVHARM is built to support AV security researchers and developers by offering:
 1. Web-based visualisation of AV network attack paths.
