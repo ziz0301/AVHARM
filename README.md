@@ -18,7 +18,7 @@ AVHARM is built to support AV security researchers and developers by offering:
 ## Citation
 If you use AVHARM in your research, please cite our paper:
 <pre>
-  ```@article{NGUYEN2025104229,
+@article{NGUYEN2025104229,
 title = {Graphical security modelling for Autonomous Vehicles: A novel approach to threat analysis and defence evaluation},
 journal = {Computers & Security},
 volume = {150},
@@ -29,5 +29,5 @@ doi = {https://doi.org/10.1016/j.cose.2024.104229},
 url = {https://www.sciencedirect.com/science/article/pii/S0167404824005352},
 author = {Nhung H. Nguyen and Mengmeng Ge and Jin-Hee Cho and Terrence J. Moore and Seunghyun Yoon and Hyuk Lim and Frederica Nelson and Guangdong Bai and Dan Dongseong Kim},
 keywords = {Attack graphs, Autonomous Vehicle, Security Analysis, Security modelling, Graphical security modelling, Attack countermeasure tree},
-}```
+}
 </pre>
